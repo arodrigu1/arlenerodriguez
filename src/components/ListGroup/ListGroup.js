@@ -6,6 +6,7 @@ import JSQuiz from "../../images/JSQuiz.PNG";
 import weather from "../../images/weather.PNG";
 import budget from "../../images/budget.PNG";
 import FitnessTracker from "../../images/FitnessTracker.PNG"
+import MovieSearch from "../../images/MovieSearch.png"
 
 function ListGroup() {
     return (
@@ -62,6 +63,15 @@ function ListGroup() {
                </a>
                 <div class="card-body">
                   <h5 class="card-title">Fitness Tracker</h5>
+                </div>
+        </div>
+
+        <div class="card projectcard">
+        <a href ="https://github.com/wilsoncollin7/project1">
+                  <img id="img" src={MovieSearch} class="card-img-top" alt="Movie Search" />
+               </a>
+                <div class="card-body">
+                  <h5 class="card-title">Movie Search</h5>
                 </div>
         </div>
 

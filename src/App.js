@@ -20,7 +20,6 @@ const App = () => {
         {/* <Route exact path="/getintouch" component={Contact} /> */}
          
           <Footer />
-      \
       </Router>
   );
 
