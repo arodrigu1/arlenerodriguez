@@ -4,8 +4,7 @@ import Home from "./pages/Home/Home";
 import Portfolio from "./pages/Portfolio/Portfolio";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
-import Wrapper from "./components/Wrapper";
-// import Contact from "./pages/Contact/Contact";
+
 
 const App = () => {
 
@@ -17,8 +16,6 @@ const App = () => {
           
           <Route exact path="/" component={Home} />
           <Route exact path="/Portfolio" component={Portfolio} />
-        {/* <Route exact path="/getintouch" component={Contact} /> */}
-         
           <Footer />
       </Router>
   );
