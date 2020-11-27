@@ -1,0 +1,9 @@
+footer {
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  color: white;
+  background-color: lightseagreen;
+  line-height: 100px;
+  position: sticky;
+
+}

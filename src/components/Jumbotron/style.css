@@ -1,9 +1,21 @@
-.jumbotroncolor {
+.jumbotron {
   background-color: lightseagreen !important;
+  top: 0 !important;
+  width: 100%;
+  border-radius: 0px !important;
   
 }
 
 .name {
   font-family:'Satisfy', cursive;
   text-align: center;
+}
+
+#profilepic {
+  border-radius: 75%;
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

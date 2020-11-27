@@ -1,15 +1,15 @@
 import React from "react";
-import Navbar from "../../components/Navbar/Navbar";
 import About from "../../components/About/About";
 import Jumbotron from "../../components/Jumbotron/Jumbotron";
+import "./style.css"
 
 function Home() {
   return (
-    <div>
-    <Navbar />
+    <>
     <Jumbotron />
     <About />
-    </div>
+    </>
+  
   );
 }
 
