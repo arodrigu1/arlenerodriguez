@@ -1,0 +1,11 @@
+  
+#img {
+  height:200px;
+  width: 200px;
+  margin: 1%;
+}
+
+.projectcard {
+  width: 18em;
+  float: left;
+}
