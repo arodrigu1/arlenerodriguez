@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/arlenerodriguez/static/css/main.a6801175.chunk.css",
+    "main.js": "/arlenerodriguez/static/js/main.8bbb57a5.chunk.js",
+    "main.js.map": "/arlenerodriguez/static/js/main.8bbb57a5.chunk.js.map",
+    "runtime-main.js": "/arlenerodriguez/static/js/runtime-main.8021d66e.js",
+    "runtime-main.js.map": "/arlenerodriguez/static/js/runtime-main.8021d66e.js.map",
+    "static/js/2.b0a2c3ef.chunk.js": "/arlenerodriguez/static/js/2.b0a2c3ef.chunk.js",
+    "static/js/2.b0a2c3ef.chunk.js.map": "/arlenerodriguez/static/js/2.b0a2c3ef.chunk.js.map",
+    "index.html": "/arlenerodriguez/index.html",
+    "static/css/main.a6801175.chunk.css.map": "/arlenerodriguez/static/css/main.a6801175.chunk.css.map",
+    "static/js/2.b0a2c3ef.chunk.js.LICENSE.txt": "/arlenerodriguez/static/js/2.b0a2c3ef.chunk.js.LICENSE.txt",
+    "static/media/Dayplanner.6aa9cbb4.PNG": "/arlenerodriguez/static/media/Dayplanner.6aa9cbb4.PNG",
+    "static/media/FitnessTracker.8ddb32f8.PNG": "/arlenerodriguez/static/media/FitnessTracker.8ddb32f8.PNG",
+    "static/media/IMG_1653.469858c4.JPG": "/arlenerodriguez/static/media/IMG_1653.469858c4.JPG",
+    "static/media/JSQuiz.249e9f56.PNG": "/arlenerodriguez/static/media/JSQuiz.249e9f56.PNG",
+    "static/media/MovieSearch.326ea948.png": "/arlenerodriguez/static/media/MovieSearch.326ea948.png",
+    "static/media/budget.a7a3f6cb.PNG": "/arlenerodriguez/static/media/budget.a7a3f6cb.PNG",
+    "static/media/passwordgenerator.d1bb050b.PNG": "/arlenerodriguez/static/media/passwordgenerator.d1bb050b.PNG",
+    "static/media/weather.40adeabd.PNG": "/arlenerodriguez/static/media/weather.40adeabd.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8021d66e.js",
+    "static/js/2.b0a2c3ef.chunk.js",
+    "static/css/main.a6801175.chunk.css",
+    "static/js/main.8bbb57a5.chunk.js"
+  ]
+}
